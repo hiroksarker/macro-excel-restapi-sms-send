@@ -1,7 +1,3 @@
-# macro-excel-restapi-sms-send
-Macro Script (SMS Send using REST API)
-Sample Examle: 
-
 'OnnoRokom SMS Excel Macro Script
 'Bulk SMS Proving only for Bangladesh
 'Rest API Calling Example using Macro

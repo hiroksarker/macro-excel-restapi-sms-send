@@ -1,4 +1,4 @@
-# macro-excel-restapi-sms-send
+# Excel Button Click SMS Send
 Macro Script (SMS Send using REST API)
 Sample Examle: 
 

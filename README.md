@@ -6,7 +6,8 @@ Sample Examle:
 'Bulk SMS Proving only for Bangladesh
 'Rest API Calling Example using Macro
 'Function Call Button Click
-Sub Macro1()
+```
+Sub Macro()
     'Function Call
     Call SMS
 End Sub
@@ -58,3 +59,4 @@ Public Function SMS()
     End If
 
 End Function
+```
